@@ -7,7 +7,7 @@
 > **Department:** Department of Information and Communication Technology (ICT)  
 > **Institution:** Mawlana Bhashani Science and Technology University (MBSTU), Santosh, Tangail-1902  
 > **Repository:** [https://github.com/jawad-i/ccl_ct01](https://github.com/jawad-i/ccl_ct01)  
-> **Reference Workshop:** [IIT Bombay Maths and Physics Club — Number Theory and Cryptography Workshop](https://github.com/mnp-club/Number_Theory_and_Cryptography_Workshop)
+> **Reference Workshop:**(https://github.com/mnp-club/Number_Theory_and_Cryptography_Workshop)
 
 ---
  
