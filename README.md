@@ -1,6 +1,6 @@
 # Number Theory & Cryptography: From Theoretical Foundations to Real-World Cryptanalysis
 
-> **Course:** Cryptography and Information Security Lab / Computer Communications Lab (CCL) — Class Test 01  
+> **Course:** Cryptography and cyber Law (CCL) — Class Test 01  
 > **Student Name:** **Md. Akib Al Jawad**  
 > **Student ID:** **IT-23020**  
 > **Session:** 2022–2023  
